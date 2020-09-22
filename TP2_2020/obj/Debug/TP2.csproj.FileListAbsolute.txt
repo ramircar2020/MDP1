@@ -1,0 +1,18 @@
+C:\Users\ext82993\Desktop\UNAJ2020\Metodologías de Programación I\TP2\obj\Debug\TP2.csprojResolveAssemblyReference.cache
+C:\Users\ext82993\Desktop\UNAJ2020\Metodologías de Programación I\TP2\bin\Debug\TP2.exe.config
+C:\Users\ext82993\Desktop\UNAJ2020\Metodologías de Programación I\TP2\bin\Debug\TP2.exe
+C:\Users\ext82993\Desktop\UNAJ2020\Metodologías de Programación I\TP2\bin\Debug\TP2.pdb
+C:\Users\ext82993\Desktop\UNAJ2020\Metodologías de Programación I\TP2\obj\Debug\TP2.exe
+C:\Users\ext82993\Desktop\UNAJ2020\Metodologías de Programación I\TP2\obj\Debug\TP2.pdb
+C:\Users\ext82993\Desktop\UNAJ2020\Metodologías de Programación I\CLASE2\TP2\bin\Debug\TP2.exe.config
+C:\Users\ext82993\Desktop\UNAJ2020\Metodologías de Programación I\CLASE2\TP2\bin\Debug\TP2.exe
+C:\Users\ext82993\Desktop\UNAJ2020\Metodologías de Programación I\CLASE2\TP2\bin\Debug\TP2.pdb
+C:\Users\ext82993\Desktop\UNAJ2020\Metodologías de Programación I\CLASE2\TP2\obj\Debug\TP2.csprojResolveAssemblyReference.cache
+C:\Users\ext82993\Desktop\UNAJ2020\Metodologías de Programación I\CLASE2\TP2\obj\Debug\TP2.exe
+C:\Users\ext82993\Desktop\UNAJ2020\Metodologías de Programación I\CLASE2\TP2\obj\Debug\TP2.pdb
+C:\Users\ext82993\Desktop\UNAJ_2020_2C\MetodologiaDeProgramación1\CLASE2\TP2\bin\Debug\TP2.exe.config
+C:\Users\ext82993\Desktop\UNAJ_2020_2C\MetodologiaDeProgramación1\CLASE2\TP2\bin\Debug\TP2.exe
+C:\Users\ext82993\Desktop\UNAJ_2020_2C\MetodologiaDeProgramación1\CLASE2\TP2\bin\Debug\TP2.pdb
+C:\Users\ext82993\Desktop\UNAJ_2020_2C\MetodologiaDeProgramación1\CLASE2\TP2\obj\Debug\TP2.csprojResolveAssemblyReference.cache
+C:\Users\ext82993\Desktop\UNAJ_2020_2C\MetodologiaDeProgramación1\CLASE2\TP2\obj\Debug\TP2.exe
+C:\Users\ext82993\Desktop\UNAJ_2020_2C\MetodologiaDeProgramación1\CLASE2\TP2\obj\Debug\TP2.pdb
